@@ -1,0 +1,45 @@
+.GameOver{
+    position: absolute;
+    top:0;
+    z-index: 15;
+
+    width: 100vw;
+    height:100vh;
+
+
+}
+
+.Restart{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+
+font-size: 26px;
+    width: 70vw;
+    height: 200px;
+    border: 1px solid #adadd5;
+    border-radius: 10px;
+}
+
+.Restart small{
+    font-size: 16px;
+}
+
+.Restart button{
+background-color: #e7e7e7; color: black;
+    border: none;
+    border-radius: 10px;
+
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}

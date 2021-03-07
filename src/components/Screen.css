@@ -1,0 +1,11 @@
+.Screen{
+    position: absolute;
+    top:0;
+    /*z-index: 10;*/
+
+    width: 100vw;
+    height:100vh;
+    /*background-color: #c4deea;*/
+    /*opacity: .90;*/
+
+}

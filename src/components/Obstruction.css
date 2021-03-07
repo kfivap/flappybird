@@ -1,0 +1,32 @@
+.obstruction {
+    width: 75px;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 50px;
+    z-index: -1;
+    transition-duration: 0.2s;
+
+}
+
+.obstructionTop {
+
+    height: 30vh;
+    background-color: #f1ba5d;
+}
+
+.passage {
+
+    height: 40vh;
+
+
+}
+
+
+.obstructionBottom {
+    position: relative;
+    bottom: 0;
+    height: 30vh;
+    background-color: #aa133e;
+
+}
